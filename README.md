@@ -1,4 +1,4 @@
-# Facebook Page Post Scraper
+# [Facebook](https://aapks.com/apk/facebook/) Page Post Scraper
 
 **UPDATE December 2017: Due to a [bug on Facebook's end](https://developers.facebook.com/bugs/1838195226492053/), using this scraper will only return a very small subset of posts (5-10% of posts) over a limited timeframe. Since Facebook now owns [CrowdTangle](http://www.crowdtangle.com), the (paid) canonical source of historical Facebook data, Facebook doesn't have an incentive to fix the linked bug.**
 
@@ -32,7 +32,7 @@ Keep in mind that large pages such as CNN have *millions* of comments, so be car
 
 ## Privacy
 
-This scraper can only scrape public Facebook data which is available to anyone, even those who are not logged into Facebook. No personally-identifiable data is collected in the Page variant; the Group variant does collect the name of the author of the post, but that data is also public to non-logged-in users. Additionally, the script only uses officially-documented Facebook API endpoints without circumventing any rate-limits.
+This scraper can only scrape public [Facebook](https://aapks.com/apk/facebook/) data which is available to anyone, even those who are not logged into Facebook. No personally-identifiable data is collected in the Page variant; the Group variant does collect the name of the author of the post, but that data is also public to non-logged-in users. Additionally, the script only uses officially-documented Facebook API endpoints without circumventing any rate-limits.
 
 Note that this script, and any variant of this script, *cannot* be used to scrape data from user profiles. (and the Facebook API specifically disallows this use case!)
 
